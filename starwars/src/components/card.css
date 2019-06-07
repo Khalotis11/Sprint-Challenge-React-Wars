@@ -1,0 +1,24 @@
+.card-container {
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.5);
+  min-height: 100px;
+  margin: 5px auto;
+}
+
+.profile {
+  display: flex;
+}
+
+.info {
+  width: 50%;
+}
+h2 {
+  color: #420303;
+  text-shadow: 1px 1px 5px #fff;
+}
+p {
+  font-size: 18px;
+  text-decoration: brown;
+}
