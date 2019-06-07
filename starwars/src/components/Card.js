@@ -1,8 +1,9 @@
 import React from "react";
+import "./card.css";
 
 export const Card = props => {
   return (
-    <div>
+    <div className="card-container">
       <h2>{props.character.name}</h2>
       <div className="profile">
         <div className="info">
